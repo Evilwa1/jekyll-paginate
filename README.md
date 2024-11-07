@@ -1,1 +1,1 @@
-# coding: utf-8
+  spec.add_development_dependency "rubocop-jekyll"
