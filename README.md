@@ -1,1 +1,1 @@
-spec.add_development_dependency "rubocop-jekyll"
+gem 'jekyll', '~> 4.3', '>= 4.3.4'
