@@ -1,1 +1,1 @@
-  spec.add_development_dependency "rubocop-jekyll"
+spec.add_development_dependency "rubocop-jekyll"
