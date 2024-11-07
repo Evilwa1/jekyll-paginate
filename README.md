@@ -29,3 +29,4 @@ Once the gem is installed on your system, Jekyll will auto-require it. Just set 
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+ff795a9cdbe98dda27496ee14a54f301e0c32081
